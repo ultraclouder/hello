@@ -1,3 +1,7 @@
+#Left click to throw boomerang
+#Use a and d to move left and right
+#use the space bar to jump
+
 import pygame
 import sys
 import time
